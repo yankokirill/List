@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/kirill/CLionProjects/list-yankokirill/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=c++20 -fdiagnostics-color=always -Wall -Wextra -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Werror -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast -g -o CMakeFiles/list.dir/test.cpp.o -c /home/kirill/CLionProjects/list-yankokirill/test.cpp",
+  "file": "/home/kirill/CLionProjects/list-yankokirill/test.cpp",
+  "output": "CMakeFiles/list.dir/test.cpp.o"
+}
+]

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/kirill/CLionProjects/List/build",
+  "command": "/usr/bin/clang++   -std=c++20 -Wall -Wextra -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Werror -Wreturn-stack-address -Wunused-lambda-capture -g -o CMakeFiles/list.dir/test.cpp.o -c /home/kirill/CLionProjects/List/test.cpp",
+  "file": "/home/kirill/CLionProjects/List/test.cpp",
+  "output": "CMakeFiles/list.dir/test.cpp.o"
+}
+]

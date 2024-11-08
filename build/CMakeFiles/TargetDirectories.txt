@@ -1,0 +1,3 @@
+/home/kirill/CLionProjects/List/build/CMakeFiles/list.dir
+/home/kirill/CLionProjects/List/build/CMakeFiles/edit_cache.dir
+/home/kirill/CLionProjects/List/build/CMakeFiles/rebuild_cache.dir
